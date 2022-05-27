@@ -1,0 +1,4 @@
+baseURL = 'http://carrotpi.com/'
+languageCode = 'en-us'
+title = 'CarrotPi'
+theme = 'hugo-clarity'
